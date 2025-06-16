@@ -77,3 +77,7 @@ FirebaseFirestore.instance.collection('bitolas').add({
   'bitola_220v': bitola220,
   'data': Timestamp.now(),
 });
+
+
+![image](https://github.com/user-attachments/assets/9310a824-0ffb-4ffd-868c-b91ea3d98910)
+
